@@ -14,8 +14,8 @@ function App() {
 
       <section className="page-section page-content hero-section">
         <div className="hero-content">
-          <h2>안녕하세요, 영상으로 나를 소개하는 포트폴리오입니다.</h2>
-          <p className="hero-intro">나의 이야기와 작업 과정을 영상 중심으로 담아내는 공간입니다.</p>
+          <h2>Project:[오후]</h2>
+          <p className="hero-intro">작업 과정을 디자인과 영상으로 담아내는 공간입니다.</p>
           <p className="hero-description">기획 의도, 제작 과정, 완성된 결과물을 차근차근 보여줄 예정입니다.</p>
           <div className="hero-actions">
             <button type="button">기획서 보기</button>
@@ -30,11 +30,11 @@ function App() {
           <div className="about-card-list">
             <article className="about-card">
               <h3>이름</h3>
-              <p>홍길동</p>
+              <p>오후석</p>
             </article>
             <article className="about-card">
               <h3>관심 분야</h3>
-              <p>영상 기획, 촬영, 편집</p>
+              <p>디자인, 영상 기획, 촬영, 편집</p>
             </article>
             <article className="about-card">
               <h3>강점</h3>
